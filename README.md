@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pierre-Olivier !
 - 👀 I love computer programming obviously, cycling :bike:, music :guitar: :control_knobs:
-- 🌱 I’m currently learning Next.js
+- 🌱 I’m currently learning Python
 
 <!---
 polouis/polouis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
