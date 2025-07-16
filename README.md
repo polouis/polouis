@@ -4,7 +4,7 @@
 
 I often do :
 
-[![My Skills](https://skillicons.dev/icons?i=go,ansible,kubernetes,docker,php,symfony,py,fastapi,git,github,githubactions,postman,vscode,ubuntu,linux,md,bash,regex)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,ansible,kubernetes,docker,symfony,py,git,github,githubactions,postman,vscode,ubuntu,linux,md,bash,regex)](https://skillicons.dev)
 
 And sometimes :
 
