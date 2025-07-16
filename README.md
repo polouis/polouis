@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Pierre-Olivier !
 - 👀 I love computer programming obviously, cycling :bike:, music :guitar: :control_knobs:
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Go
 
 I often do :
 
-[![My Skills](https://skillicons.dev/icons?i=php,symfony,py,fastapi,git,github,githubactions,postman,vscode,docker,ubuntu,linux,md,bash,regex)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,ansible,kubernetes,docker,php,symfony,py,fastapi,git,github,githubactions,postman,vscode,ubuntu,linux,md,bash,regex)](https://skillicons.dev)
 
 And sometimes :
 
