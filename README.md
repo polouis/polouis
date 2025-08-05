@@ -24,6 +24,11 @@ And sometimes :
 ![css](https://img.shields.io/badge/-css-grey?logo=css)
 ![typescript](https://img.shields.io/badge/-typescript-grey?logo=typescript)
 
+![angular](https://img.shields.io/badge/-angular-grey?logo=angular)
+![](https://img.shields.io/badge/-next.js-grey?logo=next.js)
+![](https://img.shields.io/badge/-react-grey?logo=react)
+![](https://img.shields.io/badge/-gitlab-grey?logo=gitlab)
+
 [![My Skills](https://skillicons.dev/icons?i=angular,nextjs,react,gitlab,postgres,mysql,nodejs,npm,stackoverflow,unity,arduino,raspberrypi)](https://skillicons.dev)
 
 <!-- cs,dotnet,gcp,sqlite -->
