@@ -19,7 +19,7 @@ I often do :
 ![python](https://img.shields.io/badge/-python-grey?logo=python)
 
 And sometimes :
-![html](https://img.shields.io/badge/-html-grey?logo=html)
+![html](https://img.shields.io/badge/-html-grey?logo=htmx)
 ![javascript](https://img.shields.io/badge/-javascript-grey?logo=javascript)
 ![css](https://img.shields.io/badge/-css-grey?logo=css)
 ![typescript](https://img.shields.io/badge/-typescript-grey?logo=typescript)
