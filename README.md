@@ -11,16 +11,15 @@ I often do :
 ![github](https://img.shields.io/badge/-github-grey?logo=github)
 ![githubactions](https://img.shields.io/badge/-githubactions-grey?logo=githubactions)
 ![postman](https://img.shields.io/badge/-postman-grey?logo=postman)
-![vscode](https://img.shields.io/badge/-vscode-grey?logo=vscode)
-![vscode](https://img.shields.io/badge/-vscode-grey?logo=vscode)
 ![ubuntu](https://img.shields.io/badge/-ubuntu-grey?logo=ubuntu)
 ![linux](https://img.shields.io/badge/-linux-grey?logo=linux)
 ![markdown](https://img.shields.io/badge/-markdown-grey?logo=markdown)
-
-[![My Skills](https://skillicons.dev/icons?i=symfony,py,bash,regex)](https://skillicons.dev)
+![bash](https://img.shields.io/badge/-bash-grey?logo=bash)
+![regex](https://img.shields.io/badge/-regex-grey?logo=regex)
+![symfony](https://img.shields.io/badge/-symfony-grey?logo=symfony)
+![python](https://img.shields.io/badge/-python-grey?logo=python)
 
 And sometimes :
-
 [![My Skills](https://skillicons.dev/icons?i=html,js,css,ts,angular,nextjs,react,gitlab,postgres,mysql,nodejs,npm,stackoverflow,unity,arduino,raspberrypi)](https://skillicons.dev)
 
 <!-- cs,dotnet,gcp,sqlite -->
