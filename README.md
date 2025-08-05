@@ -19,7 +19,12 @@ I often do :
 ![python](https://img.shields.io/badge/-python-grey?logo=python)
 
 And sometimes :
-[![My Skills](https://skillicons.dev/icons?i=html,js,css,ts,angular,nextjs,react,gitlab,postgres,mysql,nodejs,npm,stackoverflow,unity,arduino,raspberrypi)](https://skillicons.dev)
+![html](https://img.shields.io/badge/-html-grey?logo=html)
+![javascript](https://img.shields.io/badge/-javascript-grey?logo=javascript)
+![css](https://img.shields.io/badge/-css-grey?logo=css)
+![typescript](https://img.shields.io/badge/-typescript-grey?logo=typescript)
+
+[![My Skills](https://skillicons.dev/icons?i=angular,nextjs,react,gitlab,postgres,mysql,nodejs,npm,stackoverflow,unity,arduino,raspberrypi)](https://skillicons.dev)
 
 <!-- cs,dotnet,gcp,sqlite -->
 
