@@ -3,11 +3,16 @@
 - 🌱 I’m currently learning Go
 
 I often do :
-![go](https://img.shields.io/badge/-go-grey?logo=go&logoColor=00ADD8)
-![ansible](https://img.shields.io/badge/-ansible-grey?logo=ansible&logoColor=EE0000)
-![kubernetes](https://img.shields.io/badge/-kubernetes-grey?logo=kubernetes&logoColor=326CE5)
+![go](https://img.shields.io/badge/-go-grey?logo=go)
+![ansible](https://img.shields.io/badge/-ansible-grey?logo=ansible)
+![kubernetes](https://img.shields.io/badge/-kubernetes-grey?logo=kubernetes)
+![docker](https://img.shields.io/badge/-docker-grey?logo=docker)
+![git](https://img.shields.io/badge/-git-grey?logo=git)
+![github](https://img.shields.io/badge/-github-grey?logo=github)
+![githubactions](https://img.shields.io/badge/-githubactions-grey?logo=githubactions)
+![postman](https://img.shields.io/badge/-postman-grey?logo=postman)
 
-[![My Skills](https://skillicons.dev/icons?i=go,ansible,kubernetes,docker,symfony,py,git,github,githubactions,postman,vscode,ubuntu,linux,md,bash,regex)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=symfony,py,vscode,ubuntu,linux,md,bash,regex)](https://skillicons.dev)
 
 And sometimes :
 
