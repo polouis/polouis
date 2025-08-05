@@ -14,8 +14,7 @@ I often do :
 ![ubuntu](https://img.shields.io/badge/-ubuntu-grey?logo=ubuntu)
 ![linux](https://img.shields.io/badge/-linux-grey?logo=linux)
 ![markdown](https://img.shields.io/badge/-markdown-grey?logo=markdown)
-![bash](https://img.shields.io/badge/-bash-grey?logo=bash)
-![regex](https://img.shields.io/badge/-regex-grey?logo=regex)
+![gnubash](https://img.shields.io/badge/-bash-grey?logo=gnubash)
 ![symfony](https://img.shields.io/badge/-symfony-grey?logo=symfony)
 ![python](https://img.shields.io/badge/-python-grey?logo=python)
 
