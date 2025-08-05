@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning Go
 
 I often do :
-![go](https://img.shields.io/badge/-go-blue?logo=go)
+![go](https://img.shields.io/badge/-go-grey?logo=go&logoColor=00ADD8)
+![ansible](https://img.shields.io/badge/-ansible-grey?logo=go&logoColor=EE0000)
+![kubernetes](https://img.shields.io/badge/-kubernetes-grey?logo=go&logoColor=326CE5)
 
 [![My Skills](https://skillicons.dev/icons?i=go,ansible,kubernetes,docker,symfony,py,git,github,githubactions,postman,vscode,ubuntu,linux,md,bash,regex)](https://skillicons.dev)
 
