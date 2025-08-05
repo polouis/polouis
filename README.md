@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Go
 
 I often do :
+![go](https://img.shields.io/badge/-go-blue?logo=go)
 
 [![My Skills](https://skillicons.dev/icons?i=go,ansible,kubernetes,docker,symfony,py,git,github,githubactions,postman,vscode,ubuntu,linux,md,bash,regex)](https://skillicons.dev)
 
