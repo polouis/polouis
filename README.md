@@ -11,8 +11,13 @@ I often do :
 ![github](https://img.shields.io/badge/-github-grey?logo=github)
 ![githubactions](https://img.shields.io/badge/-githubactions-grey?logo=githubactions)
 ![postman](https://img.shields.io/badge/-postman-grey?logo=postman)
+![vscode](https://img.shields.io/badge/-vscode-grey?logo=vscode)
+![vscode](https://img.shields.io/badge/-vscode-grey?logo=vscode)
+![ubuntu](https://img.shields.io/badge/-ubuntu-grey?logo=ubuntu)
+![linux](https://img.shields.io/badge/-linux-grey?logo=linux)
+![markdown](https://img.shields.io/badge/-markdown-grey?logo=markdown)
 
-[![My Skills](https://skillicons.dev/icons?i=symfony,py,vscode,ubuntu,linux,md,bash,regex)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=symfony,py,bash,regex)](https://skillicons.dev)
 
 And sometimes :
 
