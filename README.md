@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Go
 
 I often do :
+
 ![](https://img.shields.io/badge/-go-grey?logo=go)
 ![](https://img.shields.io/badge/-claude-grey?logo=claude)
 ![](https://img.shields.io/badge/-ansible-grey?logo=ansible)
@@ -20,6 +21,7 @@ I often do :
 ![](https://img.shields.io/badge/-python-grey?logo=python)
 
 And sometimes :
+
 ![](https://img.shields.io/badge/-html-grey?logo=htmx)
 ![](https://img.shields.io/badge/-javascript-grey?logo=javascript)
 ![](https://img.shields.io/badge/-css-grey?logo=css)
